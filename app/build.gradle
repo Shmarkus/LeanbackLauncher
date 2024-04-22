@@ -19,7 +19,7 @@ android {
         //noinspection ExpiredTargetSdkVersion,OldTargetApi
         targetSdkVersion 29
         versionCode 58
-        versionName "1.58"
+        versionName "1.58-no-google-services"
         vectorDrawables.useSupportLibrary = true
         resourceConfigurations += ['en', 'ru', 'uk', 'it', 'fr', 'es', 'de', 'pl', 'zh-rCN']
         setProperty("archivesBaseName", "LeanbackOnFire_v" + versionName)
