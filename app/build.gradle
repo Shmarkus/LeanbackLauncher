@@ -46,6 +46,9 @@ android {
         abortOnError false
     }
     namespace 'com.amazon.tv.leanbacklauncher'
+    buildFeatures {
+        buildConfig true
+    }
 }
 
 dependencies {
