@@ -61,7 +61,7 @@ object AppCategorizer {
         "gyao",
         "haystack",
         "hbo",
-        "hdrezkaapp",
+        "hdrezka",
         "hedwig",
         "hktv.reborn",
         "hopwatch",
