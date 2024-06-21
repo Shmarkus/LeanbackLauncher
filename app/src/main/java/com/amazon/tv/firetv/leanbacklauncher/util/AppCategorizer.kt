@@ -28,6 +28,7 @@ object AppCategorizer {
         "com.google.android.tv",
         "com.lgi.orionandroid.tv",
         "com.nhl",
+        "com.peacocktv.peacockandroid",
         "com.plexapp",
         "com.prosto.tv",
         "com.tvp.vodtv",
