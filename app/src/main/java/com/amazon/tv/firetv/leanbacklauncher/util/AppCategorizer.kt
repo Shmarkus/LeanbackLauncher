@@ -33,6 +33,7 @@ object AppCategorizer {
         "com.tvp.vodtv",
         "com.vgtrk",
         "com.viaplay.android",
+        "com.wbd.stream",
         "com.vk.tv",
         "com.xiaodianshi.tv.yst",
         "com.zatoo.player",
