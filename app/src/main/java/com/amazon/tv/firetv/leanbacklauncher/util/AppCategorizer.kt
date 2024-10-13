@@ -141,7 +141,7 @@ object AppCategorizer {
         "spb.tv",
         "spbtv",
         "starz",
-        "stremio"
+        "stremio",
         "ted",
         "tencent.qqlivei18n",
         "tiktok",
